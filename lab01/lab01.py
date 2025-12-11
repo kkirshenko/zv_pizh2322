@@ -144,13 +144,3 @@ def run_comparison():
 
 if __name__ == "__main__":
     run_comparison()
-
-# Характеристики ПК для тестирования
-pcinf = """
-Характеристики ПК для тестирования:
-- Процессор: Intel(R) Core(TM) i3-10105 CPU @ 3.70 GHz
-- Оперативная память: 16 GB
-- ОС: Windows 11
-- Python: 3.11 (64-bit)
-"""
-print(pcinf)
